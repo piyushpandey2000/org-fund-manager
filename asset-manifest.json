@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.161ad4d5.css",
-    "main.js": "/static/js/main.b7abbe20.js",
-    "index.html": "/index.html",
-    "main.161ad4d5.css.map": "/static/css/main.161ad4d5.css.map",
-    "main.b7abbe20.js.map": "/static/js/main.b7abbe20.js.map"
+    "main.css": "/org-fund-manager/static/css/main.161ad4d5.css",
+    "main.js": "/org-fund-manager/static/js/main.e4fdaa13.js",
+    "index.html": "/org-fund-manager/index.html",
+    "main.161ad4d5.css.map": "/org-fund-manager/static/css/main.161ad4d5.css.map",
+    "main.e4fdaa13.js.map": "/org-fund-manager/static/js/main.e4fdaa13.js.map"
   },
   "entrypoints": [
     "static/css/main.161ad4d5.css",
-    "static/js/main.b7abbe20.js"
+    "static/js/main.e4fdaa13.js"
   ]
 }
