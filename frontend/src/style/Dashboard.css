@@ -1,0 +1,25 @@
+.main {
+    max-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 5%;
+}
+
+.infoBlock {
+    width: 700px;
+    height: 530px;
+    border: 1px solid black;
+    border-radius: 0.25rem;
+    display: grid;
+    place-content: center;
+}
+
+.infoBlock h1 {
+    color: #222;
+}
+
+.infoBlock h2 {
+    color: #444;
+}

@@ -1,0 +1,35 @@
+.add-non-profit-main {
+    color: black;
+    max-width: 400px;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 10%;
+}
+
+.add-non-profit-main label {
+    text-align: left;
+    display: block;
+}
+
+.add-non-profit-main input {
+    width: 100%;
+    padding: 6px 10px;
+    margin: 10px 0;
+    border: 1px solid #000;
+    box-sizing: border-box;
+    display: block;
+    outline: none;
+}
+
+.add-non-profit-main button {
+    border: 0;
+    padding: 8px 16px 8px 16px;
+    border-radius: 0.25rem;
+    cursor: pointer;
+    margin: 20px;
+}
+
+.add-non-profit-main button:hover {
+    color: #ccc;
+    background-color: #333;
+}
